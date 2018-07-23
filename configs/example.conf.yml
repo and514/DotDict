@@ -1,0 +1,15 @@
+example_bool: true
+
+example_int: 1
+
+# comment
+example_list: [1,2,3]
+
+example_dict:
+  second_level:
+    one_str: "one_str"
+    two_str: "two_str"
+
+one_void_param:
+
+two_void_param:
