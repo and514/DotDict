@@ -4,7 +4,6 @@ from config import get_config
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# конфиг
 config = get_config(BASE_DIR, "example")
 
 print('example_bool=', config.example_bool)
